@@ -25,4 +25,7 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=MR-X-HADI&label=Profile%20Views&color=3&icon=6&pretty=true" />
 </a>
+
+# ✭ donasi:)
+𝙙𝙖𝙣𝙖(085362211672)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
