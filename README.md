@@ -12,6 +12,6 @@
   <img src="https://visitcount.itsvg.in/api?id=MR-X-HADI&label=Profile%20Views&color=3&icon=6&pretty=true" />
 </a>
 
-# ✭ donasi:)
-𝙙𝙖𝙣𝙖(085362211672)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### Donate :
+
+<a href="https://sociabuzz.com/123345/tribe"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
