@@ -1,7 +1,23 @@
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+
+       Visitors Ｃount
+ <img src="https://profile-counter.glitch.me/MR-X-HADI/count.svg" />
+</p>
+
+<a href="https://github.com/MR-X-HADI"><img src="https://img.shields.io/github/followers/MR-X-HADI?label=followers&style=social"/></a>
+
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100075227348133)
+
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-Budisetiawan-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6285362211672)
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100054222010368)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5547F7&background=DBDBDB00&lines=Assalamualikum)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanHack907&layout=compact&theme=chartreuse-dark">
+</p>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
