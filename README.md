@@ -14,12 +14,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5547F7&background=DBDBDB00&lines=Assalamualikum)](https://git.io/typing-svg)
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MR-X-HADI&label=Profile%20Views&color=3&icon=6&pretty=true" />
-</a>
-
-
-
 <p align="center">
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-X-HADI&layout=compact&theme=chartreuse-dark">
 </p>
@@ -28,3 +22,7 @@
 #### Donate :
 
 <a href="https://sociabuzz.com/123345/tribe"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MR-X-HADI&label=Profile%20Views&color=3&icon=6&pretty=true" />
+</a>
