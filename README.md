@@ -6,7 +6,7 @@
 
 <a href="https://github.com/MR-X-HADI"><img src="https://img.shields.io/github/followers/MR-X-HADI?label=followers&style=social"/></a>
 
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100075227348133)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100054222010368)
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Budisetiawan-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6285362211672)
 
