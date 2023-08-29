@@ -15,8 +15,7 @@
 
 
 <p align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-X-HADI&layout=compact&theme=chartreuse-dark">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MR-X-HADI&show_icons=true&theme=radical&title_color=2de2df&text_color=fff&icon_color=2de2df">
 
 
 <a href="https://github.com/MR-X-HADI/ddos"><img title="PREMIUMV2" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-X-HADI&repo=ddos&theme=vision-friendly-dark"></a>
