@@ -17,7 +17,7 @@
 
 ![0](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-X-HADI&theme=radical&title_color=2de2df&text_color=fff)
 
-<a href="https://github.com/MR-X-HADI/Multi"><img title="PREMIUMV2" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-X-HADI&repo=Multi&theme=vision-friendly-dark"></a>
+<a href="https://github.com/MR-X-HADI/Multi-fb"><img title="PREMIUMV2" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-X-HADI&repo=Multi-fb&theme=vision-friendly-dark"></a>
 
 <a href="https://github.com/MR-X-HADI/ddos"><img title="PREMIUMV2" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-X-HADI&repo=ddos&theme=vision-friendly-dark"></a>
 
