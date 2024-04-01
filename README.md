@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=100054222010368)
 
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-Inbox-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6282196763398)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-Inbox-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6285830287528)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2de2df&background=DBDBDB00&lines=ᴀꜱꜱᴀʟᴀᴍᴜᴀʟɪᴋᴜᴍ-ꜱᴇʟᴀᴍᴀᴛ-ᴅᴀᴛᴀɴɢ)](https://git.io/typing-svg)
